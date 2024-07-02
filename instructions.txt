@@ -1,0 +1,7 @@
+1. Find the best looking pizza online
+2. Choose the store.
+3. Order the pizza selecting your preferred items.
+4. Checkout.
+5. Have a little snack so you don't eat the whole pizza.
+6. When the pizza arrives, eat.
+7. Don't forget to tip - adding this line in test branch
